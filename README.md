@@ -13,7 +13,7 @@
 - 🌱 Currently learning: **HTML, CSS, JavaScript, C, MySQL,Python GitHub**
 - 💼 Passionate about: **Frontend Development**, UI Design & Web Projects
 - 💡 I believe in *"Learning by building"*
-- 📫 Reach me at: **aditiruhela1@gmail.com**
+- 📫 Reach me at: **Linkdin :https://www.linkedin.com/in/aditi-ruhela-451970319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
 ---
 
@@ -52,7 +52,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aditi-ruhela/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditi-ruhela-451970319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:aditiruhela1@gmail.com">
