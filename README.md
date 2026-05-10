@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aditi Ruhela</h1>
-<h3 align="center">🌱 Learning Frontend | 💻 BCA Student | 🚀 Future Developer</h3>
+<h3 align="center">🌱 Learning Frontend | 💻 BCA Student | 🚀 Future Developer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Tech+Lover;Frontend+Developer+in+making;Curious+and+Consistent+Learner" alt="Typing SVG" />
