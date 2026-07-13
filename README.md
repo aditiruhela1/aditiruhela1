@@ -3,7 +3,7 @@
 <h3 align="center">💻 BCA Student | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Tech+Lover;Frontend+Developer+in+making;Curious+and+Consistent+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Data+Driven+Problem+Solver;Learning+SQL%2C+Excel+%26+Power+BI;Building+Projects+One+Dataset+at+a+Time" alt="Typing SVG" />
 </p>
 
 ---
