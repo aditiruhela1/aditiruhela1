@@ -37,13 +37,6 @@
 
 
 
-### ✨ GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aditiruhela1&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
